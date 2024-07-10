@@ -12,8 +12,8 @@ My CV in [pdf](Link to resume).
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/sullmann-github/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/sullmann-github/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About]
+- [Portfolio Projects]
   - Python
     - Project #1
     - Project #2 
