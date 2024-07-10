@@ -12,8 +12,8 @@ My CV in [pdf](Link to resume).
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About]
-- [Portfolio Projects]
+- About
+- Portfolio Projects
   - Python
     - Project #1
     - Project #2 
@@ -28,9 +28,9 @@ This is a repository to showcase skills, share projects and track my progress in
   
 
 
-- [Education](https://github.com/sullmann-github/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/sullmann-github/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/sullmann-github/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- Education
+- Certificates
+- Contact
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
@@ -120,9 +120,9 @@ Minor, Applied Computing
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate] (Jan 2022) (Coursera - Google)
-- [Data Visualization with Tableau] (July 2024) (Coursera - Tableau Learning Partner)
-- [Data Analysis with Python] (July 2024) (Coursera - IBM)
+- Google Data Analytics Professional Certificate (Jan 2022) (Coursera - Google)
+- Data Visualization with Tableau (July 2024) (Coursera - Tableau Learning Partner)
+- Data Analysis with Python (July 2024) (Coursera - IBM)
 
 ## Contacts
 - LinkedIn: [@StephanUllmann](https://www.linkedin.com/in/sullmann1998/)
