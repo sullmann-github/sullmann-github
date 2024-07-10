@@ -1,6 +1,6 @@
 # Stephan Ullmann - Data Analyst Portfolio
 ## About
-Hi, I'm Stephan! With extensive experience in Salesforce and a strong background in sales operations and business development, I bring a unique blend of analytical and sales skills to the table. Over the past three years, I've honed my expertise in data analysis, process optimization, and strategic decision-making. My passion lies in using data to drive business insights and improve operational efficiency.
+Hi, I am Stephan. With experience in Salesforce and a strong background in sales operations and business development, I bring a blend of analytical and sales skills to the table. Over the past three years, I've honed in on data analysis, process optimization, and strategic decision-making. My passion lies in using data to drive business insights and improve operational efficiency.
 
 In addition to my professional experience, I hold the Google Data Analytics Career Certificate, which has further solidified my ability to analyze and visualize data using various tools. I'm excited to share my portfolio, showcasing projects that demonstrate my skills in SQL, Python, Power BI, Excel, and Tableau.
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
