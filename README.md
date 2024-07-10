@@ -119,7 +119,7 @@ University of Washington:
 Minor, Applied Computing
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have:
 - Google Data Analytics Professional Certificate (Jan 2022) (Coursera - Google)
 - Data Visualization with Tableau (July 2024) (Coursera - Tableau Learning Partner)
 - Data Analysis with Python (July 2024) (Coursera - IBM)
